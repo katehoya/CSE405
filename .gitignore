@@ -1,0 +1,8 @@
+
+# Large binaries / Blender
+blender-4.0.0-linux-x64/
+
+# Large blender assets
+data_generation/assets/*.blend
+*.blend1
+*.blend2
