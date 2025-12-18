@@ -6,3 +6,4 @@
 
 ### decoded image 파일
 [image 파일](https://drive.google.com/drive/folders/1ep-WO_3_ZVT5rhz2a8fXPJomhKRY9vp8?usp=sharing)
+![image](https://github.com/user-attachments/assets/82c182a1-28d5-458b-9ca9-8fdf2e00ba10)
